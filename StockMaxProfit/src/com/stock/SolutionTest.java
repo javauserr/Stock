@@ -6,16 +6,6 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class SolutionTest {
-	/*
-	 * Input 3: {45 44 22} Output: 0 (No buy sell possible)
-	 * 
-	 * Input 4: {15, 40, 22, 25, 1} Output: 25 (Buy at 15, sell at 40)
-	 * 
-	 * Input 5: {45, 34, 36, 20, 40} Output: 20 (Buy at 20, sell at 40)
-	 * 
-	 * Input 6: {7} Input 7: {} Input 8: null
-	 * 
-	 */
 
 	private Solution sol;
 
